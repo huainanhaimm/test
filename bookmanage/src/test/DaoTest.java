@@ -36,6 +36,7 @@ public class DaoTest {
 		System.out.println(result);
 	}
 
+	
 	@Test
 	public void test3() {
 		IBookDao ibd = new BookDaoImpl();
